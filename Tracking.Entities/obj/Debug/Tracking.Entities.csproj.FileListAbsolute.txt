@@ -7,3 +7,13 @@ c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Track
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\obj\Debug\Tracking.Entities.dll
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\obj\Debug\Tracking.Entities.pdb
+D:\Attendance Tracking\Tracking.Entities\bin\Debug\Tracking.Entities.dll.config
+D:\Attendance Tracking\Tracking.Entities\bin\Debug\Tracking.Entities.dll
+D:\Attendance Tracking\Tracking.Entities\bin\Debug\Tracking.Entities.pdb
+D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.dll
+D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.xml
+D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.csprojResolveAssemblyReference.cache
+D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.dll
+D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.pdb

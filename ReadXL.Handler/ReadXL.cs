@@ -32,12 +32,14 @@ namespace ReadXL.Handler
 
                 System.Array MyValues = (System.Array)MySheet.get_Range("A" +
                    i.ToString(), "D" + i.ToString()).Cells.Value;
-                glcList.Add(new GlcSwipe
-                {
-                    Location = MyValues.GetValue(1, 1).ToString(),
-                    Mid = MyValues.GetValue(1, 2).ToString(),
-                    Datetime = DateTime.Parse(MyValues.GetValue(1, 4).ToString())
-                });
+                if (MyValues.GetValue(1, 1).ToString().Contains("TRIPOD")){
+                    glcList.Add(new GlcSwipe
+                    {
+                        Location = MyValues.GetValue(1, 1).ToString(),
+                        Mid = MyValues.GetValue(1, 2).ToString(),
+                        Datetime = DateTime.Parse(MyValues.GetValue(1, 4).ToString())
+                    });
+                }
             }
             return glcList;
         }

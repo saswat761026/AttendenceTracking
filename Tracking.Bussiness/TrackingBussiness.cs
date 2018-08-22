@@ -32,13 +32,19 @@ namespace Tracking.Bussiness
                 swipe.Location = String.Join(" ", arr);
 
                 //DateTime check = new DateTime()
-                if (String.Compare(swipe.Datetime.ToLongTimeString(),"08:30:00")>0)
+                if (swipe.I_O == "IN")
                 {
-                    swipe.Swipetype = "Swipe Late";
+                    if (String.Compare(swipe.Datetime.ToLongTimeString(), "8:30:00") > 0)
+                    {
+                        swipe.Swipetype = "Swipe Late";
+                    }
+                    else
+                    {
+                        swipe.Swipetype = "Swipe On Time";
+                    }
                 }
-                else
-                {
-                    swipe.Swipetype = "Swipe On Time";
+                else {
+                    swipe.Swipetype = "N/A";
                 }
             }
             iservicetrack.ExcelBinding(glcList);
