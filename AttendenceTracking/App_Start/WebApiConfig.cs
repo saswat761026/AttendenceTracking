@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using AttendenceTracking.Unity;
+using ITracking.Bussiness;
+using Tracking.Bussiness;
+using Unity;
+using Unity.Lifetime;
 
 namespace AttendenceTracking
 {
@@ -10,7 +15,9 @@ namespace AttendenceTracking
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
-
+            var container = new UnityContainer();
+            container.RegisterType<ITrackingBusiness, TrackingBussiness>(new HierarchicalLifetimeManager());
+            config.DependencyResolver = new UnityResolver(container);
             // Web API routes
             config.MapHttpAttributeRoutes();
 

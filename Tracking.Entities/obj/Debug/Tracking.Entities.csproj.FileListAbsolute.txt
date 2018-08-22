@@ -14,6 +14,5 @@ D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.dll
 D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.dll
 D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.xml
 D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.xml
-D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.csprojResolveAssemblyReference.cache
 D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.dll
 D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.pdb

@@ -12,7 +12,7 @@ using System.ComponentModel;
 
 namespace Tracking.Bussiness
 {
-    public class TrackingBussiness
+    public class TrackingBussiness : ITrackingBusiness
     {
         private readonly ServiceExcelBinding iservicetrack = new ServiceExcelBinding();
         public TrackingBussiness()

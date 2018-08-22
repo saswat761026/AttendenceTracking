@@ -19,6 +19,7 @@ c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Track
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Bussiness\bin\Debug\Tracking.DataAccessLayer.dll.config
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Bussiness\bin\Debug\Tracking.Entities.pdb
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
+D:\Attendance Tracking\Tracking.Bussiness\obj\Debug\Tracking.Business.csprojResolveAssemblyReference.cache
 D:\Attendance Tracking\Tracking.Bussiness\bin\Debug\Tracking.Bussiness.dll.config
 D:\Attendance Tracking\Tracking.Bussiness\bin\Debug\Tracking.Bussiness.dll
 D:\Attendance Tracking\Tracking.Bussiness\bin\Debug\Tracking.Bussiness.pdb
@@ -37,6 +38,5 @@ D:\Attendance Tracking\Tracking.Bussiness\bin\Debug\Tracking.Entities.pdb
 D:\Attendance Tracking\Tracking.Bussiness\bin\Debug\Tracking.Entities.dll.config
 D:\Attendance Tracking\Tracking.Bussiness\bin\Debug\EntityFramework.xml
 D:\Attendance Tracking\Tracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
-D:\Attendance Tracking\Tracking.Bussiness\obj\Debug\Tracking.Business.csprojResolveAssemblyReference.cache
 D:\Attendance Tracking\Tracking.Bussiness\obj\Debug\Tracking.Bussiness.dll
 D:\Attendance Tracking\Tracking.Bussiness\obj\Debug\Tracking.Bussiness.pdb
