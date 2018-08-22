@@ -262,9 +262,9 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ITracking.Bussiness\ITracking.Business.csproj">
-      <Project>{6d3c3001-f0ca-4849-bf6f-c48bd9d43b00}</Project>
-      <Name>ITracking.Business</Name>
+    <ProjectReference Include="..\Tracking.Bussiness\Tracking.Business.csproj">
+      <Project>{c5f52f86-dd6c-48f1-868f-6cffdccafcd2}</Project>
+      <Name>Tracking.Business</Name>
     </ProjectReference>
     <ProjectReference Include="..\Tracking.Entities\Tracking.Entities.csproj">
       <Project>{aac20548-c377-48f8-8e91-0f384b4f2959}</Project>

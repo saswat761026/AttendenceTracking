@@ -11,7 +11,7 @@ using System.Data.Entity;
 
 namespace Tracking.DataAccessLayer.Service.Respository
 {
-    class ServiceExcelBinding : IServiceExcelBinding
+    public class ServiceExcelBinding : IServiceExcelBinding
     {
         private readonly TrackingDbContext dbContext;
         public ServiceExcelBinding() {

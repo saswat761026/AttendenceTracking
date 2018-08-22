@@ -7,17 +7,17 @@ using System.Data.Entity;
 using Tracking.Entities;
 using ITracking.Bussiness;
 using ReadXL.Handler;
-using Tracking.DataAccessLayer.IService.Respository;
+using Tracking.DataAccessLayer.Service.Respository;
 using System.ComponentModel;
 
 namespace Tracking.Bussiness
 {
-    public class TrackingBussiness:ITrackingBusiness
+    public class TrackingBussiness
     {
-        private readonly IServiceExcelBinding iservicetrack;
-        public TrackingBussiness(IServiceExcelBinding mob)
+        private readonly ServiceExcelBinding iservicetrack = new ServiceExcelBinding();
+        public TrackingBussiness()
         {
-            this.iservicetrack = mob;
+            
         }
         public void ExcelBinding(string path)
         {
@@ -41,7 +41,7 @@ namespace Tracking.Bussiness
                     swipe.Swipetype = "Swipe On Time";
                 }
             }
-            iservicetrack.ExcelBinding(glcList);
+            this.iservicetrack.ExcelBinding(glcList);
         }
     }
 }

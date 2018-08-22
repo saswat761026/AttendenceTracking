@@ -75,9 +75,14 @@ c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Atten
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\obj\Debug\AttendenceTracking.csprojResolveAssemblyReference.cache
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\obj\Debug\AttendenceTracking.dll
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\obj\Debug\AttendenceTracking.pdb
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ITracking.Bussiness.dll
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Entities.dll
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ITracking.Bussiness.pdb
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ITracking.Bussiness.dll.config
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Entities.pdb
 c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Entities.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Bussiness.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.DataAccessLayer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ReadXL.Handler.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Bussiness.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.Bussiness.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.DataAccessLayer.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\Tracking.DataAccessLayer.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\AttendenceTracking\bin\ReadXL.Handler.pdb
