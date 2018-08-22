@@ -9,7 +9,7 @@ namespace Tracking.DataAccessLayer.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(Tracking.DataAccessLayer.DbContext.TrackingDbContext context)

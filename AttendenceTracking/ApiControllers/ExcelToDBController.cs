@@ -21,7 +21,7 @@ namespace AttendenceTracking.ApiControllers
         [HttpPost]
         public void ExcelBinding()
         {
-            string path = "C:/Users/M1047044/Documents/Swipe details_dummy1";
+            string path = "C:/Users/M1046631/Documents/Swipe details_dummy1";
             this.itrack.ExcelBinding(path);
         }
     }
