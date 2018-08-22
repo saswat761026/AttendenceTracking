@@ -1,0 +1,15 @@
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\Tracking.DataAccessLayer.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\Tracking.DataAccessLayer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\Tracking.DataAccessLayer.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\EntityFramework.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\Tracking.Entities.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\EntityFramework.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\Tracking.Entities.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\bin\Debug\Tracking.Entities.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\obj\Debug\Tracking.DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\obj\Debug\Tracking.DataAccessLayer.Migrations.AttendenceTracking.resources
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\obj\Debug\Tracking.DataAccessLayer.csproj.GenerateResource.Cache
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\obj\Debug\Tracking.DataAccessLayer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.DataAccessLayer\obj\Debug\Tracking.DataAccessLayer.pdb

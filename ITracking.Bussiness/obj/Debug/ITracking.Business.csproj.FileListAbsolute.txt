@@ -1,0 +1,10 @@
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll.config
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\ITracking.Bussiness.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\EntityFramework.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\EntityFramework.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.dll
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\obj\Debug\ITracking.Bussiness.pdb
+c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ITracking.Bussiness\obj\Debug\ITracking.Business.csprojResolveAssemblyReference.cache
