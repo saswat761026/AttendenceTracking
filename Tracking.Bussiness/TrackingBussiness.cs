@@ -17,7 +17,7 @@ namespace Tracking.Bussiness
         private readonly ServiceExcelBinding iservicetrack = new ServiceExcelBinding();
         public TrackingBussiness()
         {
-            
+        
         }
         public void ExcelBinding(string path)
         {
@@ -47,7 +47,7 @@ namespace Tracking.Bussiness
                     swipe.Swipetype = "N/A";
                 }
             }
-            this.iservicetrack.ExcelBinding(glcList);
+            iservicetrack.ExcelBinding(glcList);
         }
     }
 }
