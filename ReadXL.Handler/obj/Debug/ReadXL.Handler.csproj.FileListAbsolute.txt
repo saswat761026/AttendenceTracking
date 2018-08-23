@@ -1,11 +1,3 @@
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\ReadXL.Handler.dll
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\ReadXL.Handler.pdb
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\Tracking.Entities.dll
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\Tracking.Entities.pdb
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\Tracking.Entities.dll.config
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.csprojResolveAssemblyReference.cache
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.dll
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.pdb
 D:\Attendance Tracking\ReadXL.Handler\bin\Debug\ReadXL.Handler.dll
 D:\Attendance Tracking\ReadXL.Handler\bin\Debug\ReadXL.Handler.pdb
 D:\Attendance Tracking\ReadXL.Handler\bin\Debug\Tracking.Entities.dll
@@ -14,3 +6,11 @@ D:\Attendance Tracking\ReadXL.Handler\bin\Debug\Tracking.Entities.dll.config
 D:\Attendance Tracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.csprojResolveAssemblyReference.cache
 D:\Attendance Tracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.dll
 D:\Attendance Tracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\ReadXL.Handler.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\ReadXL.Handler.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\Tracking.Entities.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\Tracking.Entities.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\bin\Debug\Tracking.Entities.dll.config
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.csprojResolveAssemblyReference.cache
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\ReadXL.Handler\obj\Debug\ReadXL.Handler.pdb

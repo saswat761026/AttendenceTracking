@@ -48,6 +48,10 @@
     <Reference Include="Tracking.Entities">
       <HintPath>..\Tracking.Entities\bin\Debug\Tracking.Entities.dll</HintPath>
     </Reference>
+    <Reference Include="UploadXml, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\UploadXml\bin\Debug\UploadXml.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DbContext\TrackingDbContext.cs" />
@@ -60,7 +64,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service.Respository\ServiceExcelBinding.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />

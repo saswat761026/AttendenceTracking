@@ -8,12 +8,17 @@ using Tracking.DataAccessLayer.IService.Respository;
 using Tracking.Entities;
 using Tracking.DataAccessLayer.DbContext;
 using System.Data.Entity;
+using System.Net.Http;
+using UploadXml;
 
 namespace Tracking.DataAccessLayer.Service.Respository
 {
-    public class ServiceExcelBinding : IServiceExcelBinding
+   
+    public class ServiceExcelBinding
     {
+
         private readonly TrackingDbContext dbContext;
+        private readonly UploadXml.UploadXL obj = new UploadXml.UploadXL();
         public ServiceExcelBinding() {
             dbContext = new TrackingDbContext();
         }
@@ -28,5 +33,14 @@ namespace Tracking.DataAccessLayer.Service.Respository
             //}
 
         }
+
+        public void UploadXL(MultipartFormDataContent file)
+        {
+
+            obj.UploadFile(file);
+        }
+
+
     }
+
 }

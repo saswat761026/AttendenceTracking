@@ -117,6 +117,14 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
+    <Reference Include="Tracking.Bussiness, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Tracking.Bussiness\bin\Debug\Tracking.Bussiness.dll</HintPath>
+    </Reference>
+    <Reference Include="Tracking.DataAccessLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Tracking.DataAccessLayer\bin\Debug\Tracking.DataAccessLayer.dll</HintPath>
+    </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
       <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
@@ -151,6 +159,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApiControllers\ExcelToDBController.cs" />
+    <Compile Include="ApiControllers\UploadXlController.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -233,6 +242,7 @@
     </Content>
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
+      <SubType>Designer</SubType>
     </Content>
     <Content Include="Areas\HelpPage\Views\_ViewStart.cshtml" />
     <Content Include="Content\Site.css" />
@@ -241,10 +251,12 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Upload.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="UploadedXml\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -262,10 +274,6 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tracking.Bussiness\Tracking.Business.csproj">
-      <Project>{c5f52f86-dd6c-48f1-868f-6cffdccafcd2}</Project>
-      <Name>Tracking.Business</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Tracking.Entities\Tracking.Entities.csproj">
       <Project>{aac20548-c377-48f8-8e91-0f384b4f2959}</Project>
       <Name>Tracking.Entities</Name>

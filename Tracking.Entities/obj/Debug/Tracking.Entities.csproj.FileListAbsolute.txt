@@ -1,12 +1,3 @@
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\Tracking.Entities.dll.config
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\Tracking.Entities.dll
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\Tracking.Entities.pdb
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.dll
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.dll
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.xml
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.xml
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\obj\Debug\Tracking.Entities.dll
-c:\users\m1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\obj\Debug\Tracking.Entities.pdb
 D:\Attendance Tracking\Tracking.Entities\bin\Debug\Tracking.Entities.dll.config
 D:\Attendance Tracking\Tracking.Entities\bin\Debug\Tracking.Entities.dll
 D:\Attendance Tracking\Tracking.Entities\bin\Debug\Tracking.Entities.pdb
@@ -17,3 +8,12 @@ D:\Attendance Tracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.xml
 D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.csprojResolveAssemblyReference.cache
 D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.dll
 D:\Attendance Tracking\Tracking.Entities\obj\Debug\Tracking.Entities.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\Tracking.Entities.dll.config
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\Tracking.Entities.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\Tracking.Entities.pdb
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.xml
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\obj\Debug\Tracking.Entities.dll
+C:\Users\M1047044\documents\visual studio 2017\Projects\AttendenceTracking\Tracking.Entities\obj\Debug\Tracking.Entities.pdb

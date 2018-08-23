@@ -9,6 +9,8 @@ using ITracking.Bussiness;
 using ReadXL.Handler;
 using Tracking.DataAccessLayer.Service.Respository;
 using System.ComponentModel;
+using System.Web;
+using System.Net.Http;
 
 namespace Tracking.Bussiness
 {
@@ -48,6 +50,13 @@ namespace Tracking.Bussiness
                 }
             }
             iservicetrack.ExcelBinding(glcList);
+        }
+
+
+
+        public void UploadXL(MultipartFormDataContent file)
+        {
+            iservicetrack.UploadXL(file);
         }
     }
 }
